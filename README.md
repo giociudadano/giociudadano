@@ -4,7 +4,7 @@
 
 ## Hiya! Thanks for checking out my profile!
 
-💼 [**[LinkedIn]**](https://www.linkedin.com/in/giociudadano) &nbsp; | &nbsp; 📩 [**[Email]**](mailto:gcciudadano@gmail.com)
+💼 [**[LinkedIn]**](https://www.linkedin.com/in/giociudadano) &nbsp; | &nbsp; 📩 [**[Email]**](mailto:gcciudadano@gmail.com) &nbsp; | &nbsp; 🌏 [**[Website]**](https://giociudadano.github.io)
 
 I'm Gio Ciudadano, a hobbyist game developer that also specializes in mobile development, database management, and machine learning. I created a few projects that you want to take your time and check out! My passion is to eventually develop my own games that are beloved by many players, to create a footprint in the games industry and to be a future inspiration for other developers. If you are interested, you can contact me through my LinkedIn profile or e-mail me directly using the links provided above.
 
