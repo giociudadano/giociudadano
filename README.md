@@ -1,4 +1,4 @@
-![](https://i.imgur.com/yLY3uAS.jpeg)
+<p align=center><img src=https://i.imgur.com/yLY3uAS.jpeg width=700></p>
 
 <p align=center><i>Other than programming, on my free time I also love cross-dressing and doing cosplay! </i></p> 
 
