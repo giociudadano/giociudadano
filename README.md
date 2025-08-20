@@ -2,7 +2,11 @@
 
 <p align=center><i>Other than programming, on my free time I also love cross-dressing and doing cosplay! </i></p> 
 
-<p align=center><a href=https://www.linkedin.com/in/gcciudadano><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:gcciudadano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a></p>
+<p align=center><a href=https://www.linkedin.com/in/gcciudadano><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:gcciudadano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href=""></a></p>
+
+<h3 align=center>Awards</h3>
+
+<p align=center><a href="https://www.codewars.com/users/giociudadano/"><img src="https://www.codewars.com/users/giociudadano/badges/micro"></a></p>
 
 <h3 align=center>About Me</h3>
 
