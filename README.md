@@ -21,7 +21,6 @@ I'm a Unity/C# game developer based in Manila, Philippines with working experien
 <h3 align=center>Projects & Research Papers</h3>
 
 - [**Chime** - A Mobile Application for Micro and Small Enterprises in Miag-ao, Iloilo](https://github.com/giociudadano/Chime)
-- [Image Classification of Philippine Rice (*Oryza sativa*) Diseases Using Deep Convolutional Neural Networks](https://github.com/giociudadano/Deep-Learning-Philippine-Rice-Diseases)
 - [**VShooter** - A Roguelike 3D Top-Down Shooter in Unity/C#](https://github.com/giociudadano/VShooter)
 - [**Echo** - A Collaborative Cross-Platform Note-Taking App](https://github.com/giociudadano/Echo)
 - [**VTuber Rush!** - A Tower-Defense Game in Java](https://github.com/giociudadano/vtuber-rush)
