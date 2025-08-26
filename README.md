@@ -6,7 +6,7 @@
 
 <h3 align=center>Awards</h3>
 
-<p align=center><a href="https://www.codewars.com/users/giociudadano/"><img src="https://www.codewars.com/users/giociudadano/badges/micro"></a></p>
+<p align=center><a href="https://www.codewars.com/users/gxxcddn/"><img src="https://www.codewars.com/users/gxxcddn/badges/micro"></a></p>
 
 <h3 align=center>About Me</h3>
 
