@@ -1,4 +1,4 @@
-<h1>GioCiudadano 🎸🎶</h1>
+<h1>Ghyciu 🎸🎶</h1>
 
 I'm a full-stack web developer based in Manila, Philippines. I'm also an AI/ML Engineer with experience working on chat bots and virtual assistants and a game developer with experience developing and maintaining live-service games.
 
